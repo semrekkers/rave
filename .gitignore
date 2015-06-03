@@ -7,17 +7,3 @@
 build/
 *.o
 *.a
-*.lib
-*.dll
-
-# Visual Studio
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.aps
-*.ncb
-*.opensdf
-*.sdf
-*.mdf
-*.cachefile
