@@ -11,7 +11,7 @@ static inline ullong get_slot_index(rv_map *map, char *key) {
     }
 
     // check out the big warning in rave.h
-    // because this is why we warned you 
+    // because this is why we warned you
     return hash & (map->slots - 1);
 }
 
