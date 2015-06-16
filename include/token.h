@@ -29,6 +29,7 @@ typedef enum {
 	MUL,            // *
 	DIV,            // /
 	REM,            // %
+    ASSIGN,         // =
 } rv_tokentype;
 
 typedef struct {
